@@ -39,6 +39,13 @@ Default keybindings:
 
 ## Running the project
 
+This project is currently designed to be run using Visual Studio Code.
+
+1. Open the project folder in Visual Studio Code
+2. Make sure the required Raylib files/dependencies are installed
+3. Open the project in VS Code
+4. Build and run the project using the configured VS Code build/run setup
+
 ## What I learned
 
 ## Future Improvements
