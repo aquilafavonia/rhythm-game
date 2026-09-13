@@ -29,11 +29,11 @@ The game does not currently include music. Instead, the challenge comes from the
 
 ## Controls
 Default keybindings:
-Q - Lane 1
-W - Lane 2
-O - Lane 3
-P - Lane 4
-ESC - Pause
+- Q - Lane 1
+- W - Lane 2
+- O - Lane 3
+- P - Lane 4
+- ESC - Pause
 
 ## Screenshots
 
