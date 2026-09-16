@@ -1,5 +1,5 @@
 # Rhythm-Game
-Simple 4-key, Piano Tiles-style, rhythm game
+Simple 4-key, Piano tiles-style, rhythm game
 
 A 4-key rhythm game developed in C using Raylib, inspired by other rhythm games such as osu!mania and robeats.
 
